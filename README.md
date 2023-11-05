@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahek Mulla</h1>
 <h3 align="center">Passionate Web and App Developer with a Pythonic Twist 🌐📱💻</h3>
-<img align ="right" alt = "coding" widhth="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fdeveloper_1508880&psig=AOvVaw1n1MVajZG-CG9t605dDURU&ust=1699300641560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDOtqLSrYIDFQAAAAAdAAAAABAE">
+<img align ="right" alt = "coding" widhth="200" src="https://github.com/mash786/Mash786/blob/main/dev.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mash786&label=Profile%20views&color=0e75b6&style=flat" alt="mash786" /> </p>
 
