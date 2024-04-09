@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahek Mulla</h1>
-<h3 align="center">Passionate Web and App Developer with a Pythonic Twist 🌐📱💻</h3>
+<h3 align="center">Passionate  App Developer with a Pythonic Twist 🌐📱💻</h3>
 <img align ="right" alt = "coding" widhth="200" src="https://github.com/mash786/Mash786/blob/main/dev.png?raw=true">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mash786" alt="mash786" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development ,AI/ML**
+- 🌱 I’m currently learning **Flutter ,AI/ML**
 
 - ⚡ Fun fact **I once wrote code that made a computer smile. 😄🖥️"**
 
